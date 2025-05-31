@@ -1,4 +1,5 @@
-# FrogLang é uma linguagem de programação autoral criada como projeto acadêmico para simular a construção de uma linguagem com base em Autômatos Finitos Determinísticos (AFD). O projeto utiliza Python com a biblioteca PLY (Python Lex-Yacc) para construir um analisador léxico e sintático capaz de interpretar comandos básicos como:
+# FrogLang é uma linguagem autoral baseada em AFD, criada como projeto acadêmico.
+# Usa Python e PLY para interpretar comandos básicos via análise léxica e sintática.
 
 Impressão de mensagens (System.out.println)
 
